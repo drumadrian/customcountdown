@@ -32,7 +32,7 @@ while count !=0:
 	count = count - 1
 	if count%30 == 0:
 		print "Almost there"
-		os.system("tree ~/code")
+		os.system("tree /usr")
 
 
 
