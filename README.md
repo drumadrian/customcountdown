@@ -1,4 +1,4 @@
-# customcounterdowner
+# custom count down
 
  count down from seconds passed in as command line argument 
 
